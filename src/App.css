@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Ubuntu:wght@700&display=swap');
+
+
+.App{
+  margin:0;
+  box-sizing: border-box;
+  min-height:100vh;
+  
+}
+
+@media (max-width: 470px){
+  html{
+    font-size: 12px;
+  }}
+
+  @media (max-width: 320px){
+    html{
+      font-size: 10px;
+    }}
+
